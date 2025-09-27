@@ -1,3 +1,3 @@
 <template>
-  <h1>Hello World123</h1>
+  <h1>Pokemon</h1>
 </template>
